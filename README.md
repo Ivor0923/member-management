@@ -3,28 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Member Management</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    padding: 0;
-  }
-  h1, h3 {
-    margin: 0;
-    padding: 0;
-  }
-  h1 {
-    color: #333;
-    font-size: 24px;
-    margin-bottom: 10px;
-  }
-  h3 {
-    color: #666;
-    font-size: 18px;
-    margin-bottom: 5px;
-  }
-</style>
+
 </head>
 <body>
   <h1>Member Management</h1>
