@@ -18,7 +18,7 @@
       <li>ASP.NET會員管理功能</li>
       <li>使用Membership API驗證使用者身分和角色管理</li>
       <li>SQL ServerExpress資料庫儲存資料</li>
-      <li>Profile物件儲存指定會嫆資料</li>
+      <li>Profile物件儲存指定會員資料</li>
     </ul>
   </div>
   <div>
