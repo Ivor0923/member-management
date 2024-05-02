@@ -12,6 +12,11 @@
     <p>Visual Studio 2019</p>
   </div>
   <div>
+  <div>
+    <h3>程式語言 :</h3>
+    <p>C#</p>
+  </div>
+  <div>
     <h3>使用技術 :</h3>
     <ul>
       <li>.Net登入控制項(Login、LoginView、LoginStatus和LoginName)</li>
